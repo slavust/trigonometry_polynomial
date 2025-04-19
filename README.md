@@ -31,4 +31,4 @@ Benchmark needs gnuplot in your paths in order to render plots.
 
 ### Contact ###
 
-e-mail: homer@slavust.name
+e-mail: vuslavust at gmail.com
